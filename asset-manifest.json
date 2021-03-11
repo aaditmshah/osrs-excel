@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/osrs-excel/static/css/main.84d0be6f.chunk.css",
+    "main.js": "/osrs-excel/static/js/main.70ccc3aa.chunk.js",
+    "main.js.map": "/osrs-excel/static/js/main.70ccc3aa.chunk.js.map",
+    "runtime-main.js": "/osrs-excel/static/js/runtime-main.720f991d.js",
+    "runtime-main.js.map": "/osrs-excel/static/js/runtime-main.720f991d.js.map",
+    "static/js/2.83539e4a.chunk.js": "/osrs-excel/static/js/2.83539e4a.chunk.js",
+    "static/js/2.83539e4a.chunk.js.map": "/osrs-excel/static/js/2.83539e4a.chunk.js.map",
+    "static/js/3.32584790.chunk.js": "/osrs-excel/static/js/3.32584790.chunk.js",
+    "static/js/3.32584790.chunk.js.map": "/osrs-excel/static/js/3.32584790.chunk.js.map",
+    "index.html": "/osrs-excel/index.html",
+    "static/css/main.84d0be6f.chunk.css.map": "/osrs-excel/static/css/main.84d0be6f.chunk.css.map",
+    "static/js/2.83539e4a.chunk.js.LICENSE.txt": "/osrs-excel/static/js/2.83539e4a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/osrs-excel/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.720f991d.js",
+    "static/js/2.83539e4a.chunk.js",
+    "static/css/main.84d0be6f.chunk.css",
+    "static/js/main.70ccc3aa.chunk.js"
+  ]
+}
