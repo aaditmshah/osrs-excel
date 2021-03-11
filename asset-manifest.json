@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/osrs-excel/static/css/main.84d0be6f.chunk.css",
-    "main.js": "/osrs-excel/static/js/main.70ccc3aa.chunk.js",
-    "main.js.map": "/osrs-excel/static/js/main.70ccc3aa.chunk.js.map",
-    "runtime-main.js": "/osrs-excel/static/js/runtime-main.720f991d.js",
-    "runtime-main.js.map": "/osrs-excel/static/js/runtime-main.720f991d.js.map",
-    "static/js/2.83539e4a.chunk.js": "/osrs-excel/static/js/2.83539e4a.chunk.js",
-    "static/js/2.83539e4a.chunk.js.map": "/osrs-excel/static/js/2.83539e4a.chunk.js.map",
-    "static/js/3.32584790.chunk.js": "/osrs-excel/static/js/3.32584790.chunk.js",
-    "static/js/3.32584790.chunk.js.map": "/osrs-excel/static/js/3.32584790.chunk.js.map",
+    "main.css": "/osrs-excel/static/css/main.91ec0d48.chunk.css",
+    "main.js": "/osrs-excel/static/js/main.bc0b3407.chunk.js",
+    "main.js.map": "/osrs-excel/static/js/main.bc0b3407.chunk.js.map",
+    "runtime-main.js": "/osrs-excel/static/js/runtime-main.851cb578.js",
+    "runtime-main.js.map": "/osrs-excel/static/js/runtime-main.851cb578.js.map",
+    "static/js/2.bdf285ec.chunk.js": "/osrs-excel/static/js/2.bdf285ec.chunk.js",
+    "static/js/2.bdf285ec.chunk.js.map": "/osrs-excel/static/js/2.bdf285ec.chunk.js.map",
     "index.html": "/osrs-excel/index.html",
-    "static/css/main.84d0be6f.chunk.css.map": "/osrs-excel/static/css/main.84d0be6f.chunk.css.map",
-    "static/js/2.83539e4a.chunk.js.LICENSE.txt": "/osrs-excel/static/js/2.83539e4a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/osrs-excel/static/media/logo.6ce24c58.svg"
+    "static/css/main.91ec0d48.chunk.css.map": "/osrs-excel/static/css/main.91ec0d48.chunk.css.map",
+    "static/js/2.bdf285ec.chunk.js.LICENSE.txt": "/osrs-excel/static/js/2.bdf285ec.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/osrs-excel/static/media/logo.16b2b703.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.720f991d.js",
-    "static/js/2.83539e4a.chunk.js",
-    "static/css/main.84d0be6f.chunk.css",
-    "static/js/main.70ccc3aa.chunk.js"
+    "static/js/runtime-main.851cb578.js",
+    "static/js/2.bdf285ec.chunk.js",
+    "static/css/main.91ec0d48.chunk.css",
+    "static/js/main.bc0b3407.chunk.js"
   ]
 }
