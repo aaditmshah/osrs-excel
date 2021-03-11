@@ -2,10 +2,12 @@
   "name": "osrs-excel",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aaditmshah.github.io/osrs-excel",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "gh-pages": "^3.1.0",
     "husky": "^5.1.3",
     "lint-staged": "^10.5.4",
     "node-sass": "^5.0.0",
@@ -21,6 +23,8 @@
     ]
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "postinstall": "husky install",
     "start": "react-scripts start",
     "build": "react-scripts build",
